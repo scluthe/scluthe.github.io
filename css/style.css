@@ -373,6 +373,8 @@ hr {
 
 .item {
   margin: 10px;
+  height: 170px;
+  overflow: hidden;
 }
 
 .item img {
