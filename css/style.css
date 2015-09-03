@@ -311,50 +311,28 @@ hr {
 }
 
 #intro.intro {
-  padding:200px 0 150px 0;
+  padding:120px 0 80px 0;
 }
 
 .intro .slogan {
   text-align: center;
-
+  margin: 15px;
 }
 
 .intro .page-scroll {
   text-align: center;
 }
 
-
-.intro .page-scroll a {
-  color: #fff;
-}
-
-.brand-heading {
-    font-size: 40px;
-}
-
-.intro-text {
-    font-size: 18px;
-}
-
 .intro .slogan h2 {
-  color: #FFF;
-  text-shadow: none;
-  font-size: 60px;
-  line-height: 60px;
-  font-weight: 700;
-  font-family: Montserrat, sans-serif;
-  background-color: rgba(0, 0, 0, 0);
-  text-decoration: none;
-  text-transform: uppercase;
-  border-width: 0px;
-  border-color: #000;
-  border-style: none;
-  text-shadow: -1px 0 1px #000;
+  color: white;
 }
 
 .intro .slogan h4 {
-  color: #fff;
-  text-shadow: -1px 1px 1px #000;
+  color: white;
+}
+
+.intro .page-scroll a {
+  color: white;
 }
 
 
